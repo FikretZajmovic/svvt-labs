@@ -1,7 +1,6 @@
-package week1;
+package week2;
 
 import org.junit.jupiter.api.*;
-import week1.Calculator;
 
 import static org.junit.jupiter.api.Assertions.*;
 
